@@ -1,0 +1,12 @@
+[JUNCTIONS]
+N3	34.25	0.4
+N7	27.54	0.4
+[JUNDEMANDS]
+N1	0.87 	Normal
+N2	6.24 	LogNormal
+N3	17.64 	Uniform
+N4	4.25 	Normal
+N5	12.92 	LogNormal
+N6	7.05 	Uniform
+N7	8.66 	LogNormal
+N8	11.90 	Uniform
